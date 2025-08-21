@@ -4,10 +4,11 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
-- Vivo en
+- Mi nombre es: Jorge Martinez
+- Vivo en Agustin Ferrari, Merlo
 
 
 ### Otra Información
-- Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+- Es mi primera vez usando Github
+- Empece la carrera en 2023
+- Tengo 22 años
